@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../Users/soichit/Documents/menu-test/tmp/broccoli_type_script_compiler-input_base_path-uWcoXKn2.tmp/0/src/app/recipes/recipe-edit/index.ts"],"names":[],"mappings":";;;;AAAA,iBAAc,yBAAyB,CAAC,EAAA","sourcesContent":["export * from './recipe-edit.component';\n"]}
